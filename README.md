@@ -11,13 +11,13 @@ to English, to ease the understanding for non-spanish speaker readers </h3>
 
 1. Scope
 2. Tools used
-3. Pipeline
-  3.1. Data mining
-  3.2. Preprocessing
-  3.3. EDA
+3. Pipeline  
+  3.1. Data mining  
+  3.2. Preprocessing  
+  3.3. EDA  
   3.4. Modelling
 
-<h2> Scope
+<h2> Scope </h2>
 
 The main objective of the thesis is to be able to generate a pipeline able to:
   - Extract tweets using keywords considered relevant to the behaviour of the asset during a certain period of time
